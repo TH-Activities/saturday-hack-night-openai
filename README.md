@@ -1,3 +1,5 @@
+![Github](https://user-images.githubusercontent.com/64391274/211218215-2e28140d-002f-4fe0-a030-a8b4bf7e3708.png)
+
 # Saturday Hack Night OpenAI
 
 What is Saturday Hack Night?
